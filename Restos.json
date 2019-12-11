@@ -9,38 +9,47 @@
         "food" : [
             {
                 "name": "Pizza",
+                "price": "20 TND",
                 "icon" : "https://raw.githubusercontent.com/Sawsen-Souilem/Restos/master/pizza.png"
             },
             {
                 "name": "spaghetti fromage",
+                "price": "12 TND",
                 "icon" : "https://raw.githubusercontent.com/Sawsen-Souilem/Restos/master/spaghettiFromage.jpg"
             },
             {
                 "name": "Couscous",
+                "price": "9 TND",
                 "icon" : "https://raw.githubusercontent.com/Sawsen-Souilem/Restos/master/Couscous.png"
             },
             {
                 "name": "pizza bolognaise",
+                "price": "20 TND",
                 "icon" : "https://raw.githubusercontent.com/Sawsen-Souilem/Restos/master/pizzaBolognaise.png"
             },
             {
                 "name": "Pizza 4 fromage",
+                "price": "25 TND",
                 "icon" : "https://raw.githubusercontent.com/Sawsen-Souilem/Restos/master/4-fromages.jpg"
             },
             {
                 "name": "Pizza 4 saison",
+                "price": "25 TND",
                 "icon" : "https://raw.githubusercontent.com/Sawsen-Souilem/Restos/master/4-saison.jpg"
             },
             {
                 "name": "Lasagne",
+                "price": "10 TND",
                 "icon" : "https://raw.githubusercontent.com/Sawsen-Souilem/Restos/master/Lasagne.jpg"
             },
             {
                 "name": "spaghetti fruit de mer",
+                "price": "18 TND",
                 "icon" : "https://raw.githubusercontent.com/Sawsen-Souilem/Restos/master/spaghetti-FruitDeMer.jpg"
             },
             {
                 "name": "spaghetti bolognaise",
+                "price": "15 TND",
                 "icon" : "https://raw.githubusercontent.com/Sawsen-Souilem/Restos/master/spaghetti-bolognaise.jpg"
             }
         ]
